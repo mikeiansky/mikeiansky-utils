@@ -5,15 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.mikeiansky</groupId>
-    <artifactId>utils-parent</artifactId>
-    <version>1.0.1</version>
+    <artifactId>mikeiansky-utils-parent</artifactId>
+    <version>1.0.3</version>
 
     <packaging>pom</packaging>
     <modules>
         <module>mikeiansky-utils</module>
     </modules>
 
-    <description>mikeiansky-utils</description>
+    <description>mikeiansky-utils-parent</description>
     <url>https://github.com/mikeiansky/utils</url>
     <developers>
         <developer>
