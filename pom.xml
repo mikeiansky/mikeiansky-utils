@@ -5,16 +5,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.mikeiansky</groupId>
-    <artifactId>mikeiansky-utils-parent</artifactId>
-    <version>1.0.3</version>
+    <artifactId>mikeiansky-utils</artifactId>
+    <version>1.0.6</version>
 
     <packaging>pom</packaging>
     <modules>
-        <module>mikeiansky-utils</module>
+        <module>mikeiansky-utils-context</module>
     </modules>
 
     <description>mikeiansky-utils-parent</description>
-    <url>https://github.com/mikeiansky/utils</url>
+    <url>https://github.com/mikeiansky/mikeiansky-utils</url>
     <developers>
         <developer>
             <id>mikeiansky</id>
@@ -30,9 +30,9 @@
         </license>
     </licenses>
     <scm>
-        <url>https://github.com/mikeiansky/utils</url>
-        <connection>scm:git:git://github.com/mikeiansky/utils.git</connection>
-        <developerConnection>scm:git:ssh://github.com/mikeiansky/utils.git</developerConnection>
+        <url>https://github.com/mikeiansky/mikeiansky-utils</url>
+        <connection>scm:git:git://github.com/mikeiansky/mikeiansky-utils.git</connection>
+        <developerConnection>scm:git:ssh://github.com/mikeiansky/mikeiansky-utils.git</developerConnection>
     </scm>
 
     <properties>

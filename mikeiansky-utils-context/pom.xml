@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>io.github.mikeiansky</groupId>
-        <artifactId>mikeiansky-utils-parent</artifactId>
-        <version>1.0.3</version>
+        <artifactId>mikeiansky-utils</artifactId>
+        <version>1.0.6</version>
     </parent>
 
-    <artifactId>mikeiansky-utils</artifactId>
+    <artifactId>mikeiansky-utils-context</artifactId>
 
     <dependencies>
         <dependency>
